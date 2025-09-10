@@ -1,22 +1,15 @@
 # 📖 Github 네비게이션
 
----
-
 ### 1. [AI-Agent 🤖](https://github.com/leesy3797/AI-Agent.git) : LangGraph & n8n 활용 AI 에이전트 및 자동화 워크플로우
 
 * 1.1 **[ai-news-bot](https://github.com/leesy3797/AI-Agent/tree/main/ai-news-bot)** : AI 뉴스 요약/브리핑 LangGraph 에이전트
 * 1.2 **[youtube-bot](https://github.com/leesy3797/AI-Agent/tree/main/youtube-bot)** : 유튜브 요약 자동화 n8n 워크플로우
 * 1.3 **[n8n-workflow](https://github.com/leesy3797/AI-Agent/tree/main/n8n-workflow)** : n8n 워크플로우 모음집
 
----
 
 ### 2. [web-agent 🌐](https://github.com/leesy3797/web-agent.git) : LangGraph와 Playwright-MCP로 구축한 스마트 웹 에이전트
 
----
-
 ### 3. [industry-report 📊](https://github.com/leesy3797/industry-report.git) : LangChain으로 구현한 기업 분석 리포트 자동 생성 AI
-
----
 
 ### 4. [Project 🚀](https://github.com/leesy3797/Project.git) : 개인/팀 프로젝트 포트폴리오
 
@@ -28,7 +21,6 @@
 
 * 4.4 **[서울시 외식 창업 시장 분석](https://github.com/leesy3797/Project/tree/main/%5B%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%A0%EA%B7%9C%20%EC%99%B8%EC%8B%9D%20%EC%B0%BD%EC%97%85%EC%9E%90%EB%93%A4%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%99%B8%EC%8B%9D%20%EC%B0%BD%EC%97%85%20%EC%8B%9C%EC%9E%A5%20%EB%B6%84%EC%84%9D)**: 공공 데이터를 통한 서울시 외식 시장 경쟁도/안정성 분석
 
----
 
 ### 5. [Competition 🏆](https://github.com/leesy3797/Competition.git) : 수상/참여 공모전 모음
 
@@ -40,13 +32,11 @@
 
 * 5.4 **[2023 데이터 활용 부산관광 아이디어 공모전](https://github.com/leesy3797/Competition/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%202023%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B6%80%EC%82%B0%EA%B4%80%EA%B4%91%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84)**: 공공 데이터를 활용한 동백전 활성화 아이디어 제안
 
----
 
 ### 6. [Paper 📝](https://github.com/leesy3797/Paper.git) : 논문 퍼블리싱 & 연구 모음
 
 * 6.1 **[AI Agent 기반 Data Visualization 프레임워크 연구 (VisPath)](https://github.com/leesy3797/Paper/tree/main/VisPath)** : Multi-Path Reasoning을 통해 시각화 코드 생성 품질 개선
 
----
 
 ### 7. [Kaggle 📈](https://github.com/leesy3797/Kaggle.git) : Kaggle 코드
 
