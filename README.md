@@ -13,10 +13,10 @@
 
 ## 🛠️ Core Competencies
 
-* **AI & LLM Agent**: 복잡한 워크플로우를 설계하고 구현하는 **LangChain**과 **LangGraph** 기반의 AI/LLM 에이전트 시스템 구축
+* **AI & LLM Agent**: 복잡한 워크플로우를 설계하고 구현하는 `LangChain`과 `LangGraph` 기반의 AI/LLM 에이전트 시스템 구축
 * **ML/DL Development**: 다양한 머신러닝(ML/DL) 프레임워크(`Scikit-learn`, `Tensorflow`, `Keras`)를 활용한 모델링과 `Pycaret`, `Autogluon` 등의 AutoML 라이브러리를 통한 모델링 자동화
 * **Data Engineering**: `Pandas`, `Numpy`를 활용한 데이터 처리 및 `SQLite`, `Postgres` 등 데이터베이스 설계 및 운영 
-* **BI & Data Visualization**: **Tableau**를 활용한 인터랙티브 대시보드 구축 및 `Matplotlib`, `Seaborn`, `Folium` 등의 라이브러리를 통한 고급 시각화 구현
+* **BI & Data Visualization**: `Tableau`를 활용한 인터랙티브 대시보드 구축 및 `Matplotlib`, `Seaborn`, `Folium` 등의 라이브러리를 통한 고급 시각화 구현
 * **Workflow Automation**: `n8n`을 사용한 No-code 형태의 비즈니스 프로세스 자동화 파이프라인 구축
 
 ---
