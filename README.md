@@ -33,11 +33,13 @@
 
 ---
 
-### 2. [web-agent 🌐](https://github.com/leesy3797/web-agent.git) : LangGraph & Playwright로 구축한 스마트 웹 에이전트
+### 2. [web-agent 🌐](https://github.com/leesy3797/web-agent.git)
+- 설명 : LangGraph & Playwright로 구축한 스마트 웹 에이전트
 
 ---
 
-### 3. [industry-report 📊](https://github.com/leesy3797/industry-report.git) : LangChain으로 구현한 기업 분석 리포트 자동 생성 AI
+### 3. [industry-report 📊](https://github.com/leesy3797/industry-report.git)
+- 설명 : LangChain으로 구현한 기업 분석 리포트 자동 생성 AI
 
 ---
 
