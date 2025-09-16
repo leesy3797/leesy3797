@@ -54,7 +54,7 @@
 
 ### 5. [Competition 🏆](https://github.com/leesy3797/Competition.git) : 수상/참여 공모전 모음
 
-* 5.1 **[2023 빅콘테스트 플랫폼활용분야 (최우수상)](https://github.com/leesy3797/Competition/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%20(%EC%B5%9C%EC%9A%B0%EC%83%81)%202023%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0))**: 상업용 부동산 가치 창출을 위한 소상공인 매출 등급 예측 모형 개발
+* 5.1 **[2023 빅콘테스트 플랫폼활용분야 (최우수상)](https://github.com/leesy3797/Competition/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%20(%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81)%202023%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0))**: 상업용 부동산 가치 창출을 위한 소상공인 매출 등급 예측 모형 개발
 
 * 5.2 **[2023년 문화관광 데이터분석대회 (신한카드상)](https://github.com/leesy3797/Competition/tree/main/%5B%EA%B3%B5%EB%AA%A8%EC%A0%84%5D%20(%EC%8B%A0%ED%95%9C%EC%B9%B4%EB%93%9C%EC%83%81)%202023%EB%85%84%20%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%8C%80%ED%9A%8C)**: 외래 관광객 유형 분류 및 지역 관광 활성화 전략 제안
 
@@ -65,7 +65,7 @@
 
 ### 6. [Paper 📝](https://github.com/leesy3797/Paper.git) : 논문 퍼블리싱 & 연구 모음
 
-* 6.1 **[AI Agent 기반 Data Visualization 프레임워크 연구 (VisPath)](https://github.com/leesy3797/Paper/tree/main/VisPath)** : Multi-Path Reasoning을 통해 시각화 코드 생성 품질 개선
+* 6.1 **[AI Agent 기반 Data Visualization 프레임워크 연구 (VisPath)](https://github.com/leesy3797/Paper/tree/main/%5B%EB%85%BC%EB%AC%B8%5D%20AI%20Agent%20%EA%B8%B0%EB%B0%98%20Data%20Visualization%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%97%B0%EA%B5%AC%20(VisPath))** : Multi-Path Reasoning을 통해 시각화 코드 생성 품질 개선
 
 
 ### 7. [Kaggle 📈](https://github.com/leesy3797/Kaggle.git) : Kaggle 대회 자료
