@@ -23,8 +23,6 @@
 
 ## 📖 Github Navigation
 
----
-
 ### 1. [AI-Agent 🤖](https://github.com/leesy3797/AI-Agent.git) : LangGraph & n8n 활용 AI 에이전트 워크플로우
 
 * 1.1 **[ai-news-bot](https://github.com/leesy3797/AI-Agent/tree/main/ai-news-bot)** : AI 뉴스 요약/브리핑 에이전트
